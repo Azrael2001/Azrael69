@@ -1,5 +1,5 @@
 title: Azreal portfolio 
-logo: /assets/img/6e5bfb6295bd390f3068affeedd62bcbcc8e82b4
+logo: "/assets/img/6e5bfb6295bd390f3068affeedd62bcbcc8e82b4.png"
 description: MAMA NI AZRAEL
 show_downloads: false
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/midnight@v0.2.0
