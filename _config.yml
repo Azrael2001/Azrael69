@@ -1,5 +1,18 @@
-title: Azreal portfolio 
-logo: "/assets/img/Logo.jpg"
-description: MAMA NI AZRAEL
+title: "Azreal Portfolio"
+logo: "/Midterm%20task%201/Image/Logo.jpg"
+description: "MAMA NI AZRAEL"
 show_downloads: false
-remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: "pages-themes/midnight@v0.2.0"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+markdown: kramdown
+theme: jekyll-theme-midnight
+sass:
+  style: compressed
+
+include:
+  - _includes
+  - _layouts
