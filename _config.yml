@@ -19,4 +19,6 @@ animations:
     duration: "1s"
   - type: "hover-zoom"
 
+show_downloads: true
+
 footer: "🚀 Keep innovating, keep learning!"
