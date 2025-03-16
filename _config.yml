@@ -1,5 +1,22 @@
-title: Azrael69
-description: "Enterprise Data Management Portfolio"
-theme: jekyll-theme-minimal
-logo: "Midterm task 1/Image/Screenshot_2025-03-15-20-14-07-316_com.lenovo.anyshare.gps-edit.jpg"
-show_downloads: true
+theme: "midnight-tether"
+
+profile:
+  image: "Midterm task 1/Image/20250312_004417_0000.png"
+  shape: "circle"
+
+colors:
+  background: "#0d0d0d"
+  text: "#ffffff"
+  accent: "#1db954"
+  border: "#1a1a1a"
+
+fonts:
+  header: "Poppins, sans-serif"
+  body: "Roboto, sans-serif"
+
+animations:
+  - type: "fade-in"
+    duration: "1s"
+  - type: "hover-zoom"
+
+footer: "🚀 Keep innovating, keep learning!"
