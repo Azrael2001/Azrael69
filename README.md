@@ -5,9 +5,6 @@
 
 <h1 align="center">🚀 AZRAEL'S PORTFOLIO</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-green?style=for-the-badge&logo=github" alt="Status">
-  <img src="https://img.shields.io/badge/Theme-Midnight%20Black-000000?style=for-the-badge" alt="Theme">
-</p>
 
 ## 🌟 About Me
 Hi there! I'm **AZ**, an aspiring **Information Systems** professional passionate about **technology, problem-solving, and creativity**. I believe that **practice makes perfect**, and I'm always pushing myself to improve through hands-on experience and continuous learning.  
@@ -37,18 +34,4 @@ This portfolio is a collection of my **projects**, **experiences**, and **growth
 ### 🔹 **Midterm Lab Task 3**  
 📌 *Description: [Add a brief description of the project]*  
 
----
 
-## 📫 Connect with Me  
-<p align="center">
-  <a href="https://github.com/YourGitHubUsername">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="300">
-</p>
-<p align="center">⚡ Keep Coding & Keep Innovating! ⚡</p>
